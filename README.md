@@ -1,3 +1,4 @@
+![logo](https://marketplace.canva.com/EAFXoXLFYg4/1/0/1600w/canva-blue-night-sky-simple-quote-desktop-wallpaper-IhpA4UHJw3U.jpg)
 <h1 align="center">Hi 👋, I'm Nikita Patidar</h1>
 <h3 align="center">a passionate Data Analyst with a knack for uncovering insights from data.</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"
