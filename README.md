@@ -1,4 +1,4 @@
-
+![logo](https://github.com/nikitapatidar1/Nikita-Patidar/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Nikita Patidar</h1>
 <h3 align="center">a passionate Data Analyst with a knack for uncovering insights from data.</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"
